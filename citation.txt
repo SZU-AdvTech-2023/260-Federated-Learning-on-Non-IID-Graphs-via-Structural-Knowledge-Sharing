@@ -1,0 +1,9 @@
+@inproceedings{REPO260,
+    author = "Tan, Yue and Liu, Yixin and Long, Guodong and Jiang, Jing and Lu, Qinghua and Zhang, Chengqi",
+    booktitle = "Proceedings of the AAAI conference on artificial intelligence",
+    number = "8",
+    pages = "9953--9961",
+    title = "{Federated learning on non-iid graphs via structural knowledge sharing}",
+    volume = "37",
+    year = "2023"
+}
