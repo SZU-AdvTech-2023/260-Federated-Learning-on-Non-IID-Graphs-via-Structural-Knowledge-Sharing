@@ -1,0 +1,3 @@
+,avg. of test_accuracy_mean,avg. of test_accuracy_std
+selftrain,0.7558601207731412,0.02391586553240626
+fedstar_rw_dg,0.7881780870864895,0.022823882138952513
